@@ -1,4 +1,11 @@
 # A recipe for Guacamole
+
+
+- avocado
+- onion
+- salt & pepper
+put into a bowl and mix.
+
 An example repository for introductory **Git** training. This is the first day of the training.
 
 <!-- HTML -->
