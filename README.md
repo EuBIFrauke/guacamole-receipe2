@@ -1,6 +1,8 @@
 # A recipe for Guacamole
 An example repository for introductory **Git** training. This is the first day of the training.c
 
+<!-- HTML -->
+
  - you can add bullets
    - and sub-bullets
    - and another one on this level
