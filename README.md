@@ -1,15 +1,19 @@
 
 # A recipe for Guacamole
 
-Mare sure to enjoy!
+Make sure to enjoy!
 
 - avocado
 - onion
 - salt & pepper
 - tomatoes
 
+# Instructions
 
-Put into a bowl and mix.
+- chop onions and tomatoes
+- cut open avocado and remove stone
+- scoop out flesh
+- put into a bowl and mix with tomatoes and onion
 
 An example repository for introductory **Git** training. This is the first day of the training.
 
