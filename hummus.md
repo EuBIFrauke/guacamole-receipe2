@@ -1,4 +1,4 @@
-# A recipe for hummus
+# A recipe for hummus but only if you like chickpeas!
 
 Also a very nice recipe!
 
